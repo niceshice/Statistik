@@ -1,0 +1,28 @@
+﻿ID;label;gender;per_ms_sps;role;importance
+0;orlando;male;120;protagonist;primary
+1;oliver;male;40;antagonist;primary
+2;second brother;male;2;other;minor
+3;adam;male;10;other;minor
+4;dennis;male;2;other;minor
+5;rosalind;female;201;lover;primary
+6;celia;female;108;other;secondary
+7;touchstone;male;74;other;secondary
+8;duke frederick;male;20;antagonist;secondary
+9;charles;male;8;other;minor
+10;le beau;male;14;other;minor
+11;first lord;male;1;other;minor
+12;second lord;male;1;other;minor
+13;duke senior;male;32;other;secondary
+14;jaques;male;57;other;secondary
+15;amiens;male;11;other;minor
+16;first lord sen;male;6;other;minor
+17;second lord sen;male;3;other;minor
+18;first page;male;4;other;minor
+19;second page;male;3;other;minor
+20;corin;male;24;other;minor
+21;silvius;male;24;other;minor
+22;phoebe;female;23;other;minor
+23;audrey;female;12;other;minor
+24;william;male;11;other;minor
+25;sir oliver martext;male;3;other;minor
+26;hymen;male;2;other;minor
